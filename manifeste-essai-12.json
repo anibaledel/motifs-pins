@@ -1,0 +1,114 @@
+{
+ "lot": "essai-12",
+ "depot": "anibaledel/motifs-pins",
+ "ordre": 12,
+ "du": "2026-11-27",
+ "au": "2026-12-04",
+ "par_jour": 12,
+ "motifs": [
+  {
+   "nom": "dense",
+   "id": "o12-b141",
+   "accord": "YIN T1 + YIN-MUT T1 + YIN-MUT T2 + YANG T1 + YANG T2 + YANG T3 + YANG-MUT T1",
+   "sombres_sur_144": 104
+  },
+  {
+   "nom": "aere",
+   "id": "o12-b000",
+   "accord": "YIN-MUT T3",
+   "sombres_sur_144": 40
+  },
+  {
+   "nom": "intermediaire",
+   "id": "o12-b045",
+   "accord": "YIN T0 + YIN T2",
+   "sombres_sur_144": 72
+  }
+ ],
+ "epingles": [
+  {
+   "date": "2026-11-27",
+   "rang": 1,
+   "tableau": "Seamless Patterns 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b141-pavage.png",
+   "titre": "Geometric seamless pattern · order 12 · o12-b141 · bicolor",
+   "description": "Motif géométrique bicolore sans couture, ordre 12, o12-b141 : une tuile Jacquard de 12 × 12 cases répétée par translation, sans miroir, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b141",
+   "texte_alternatif": "Black and cream geometric seamless pattern, order 12, o12-b141: a 12 × 12 cell bicolor Jacquard tile repeated by translation.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b141",
+   "motif_id": "o12-b141",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "o12-b141-pavage.png"
+  },
+  {
+   "date": "2026-11-27",
+   "rang": 2,
+   "tableau": "Seamless Patterns 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b000-pavage.png",
+   "titre": "Geometric seamless pattern · order 12 · o12-b000 · bicolor",
+   "description": "Motif géométrique bicolore sans couture, ordre 12, o12-b000 : une tuile Jacquard de 12 × 12 cases répétée par translation, sans miroir, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b000",
+   "texte_alternatif": "Black and cream geometric seamless pattern, order 12, o12-b000: a 12 × 12 cell bicolor Jacquard tile repeated by translation.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b000",
+   "motif_id": "o12-b000",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "o12-b000-pavage.png"
+  },
+  {
+   "date": "2026-11-27",
+   "rang": 3,
+   "tableau": "Seamless Patterns 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b045-pavage.png",
+   "titre": "Geometric seamless pattern · order 12 · o12-b045 · bicolor",
+   "description": "Motif géométrique bicolore sans couture, ordre 12, o12-b045 : une tuile Jacquard de 12 × 12 cases répétée par translation, sans miroir, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b045",
+   "texte_alternatif": "Black and cream geometric seamless pattern, order 12, o12-b045: a 12 × 12 cell bicolor Jacquard tile repeated by translation.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b045",
+   "motif_id": "o12-b045",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "o12-b045-pavage.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 1,
+   "tableau": "Geometric Tiles 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b141-tuile.png",
+   "titre": "Geometric tile · order 12 · o12-b141 · bicolor",
+   "description": "Tuile géométrique bicolore, ordre 12, o12-b141 : une tuile Jacquard de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b141",
+   "texte_alternatif": "Black and cream geometric tile, order 12, o12-b141: a single 12 × 12 cell bicolor Jacquard tile on a cream background.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b141",
+   "motif_id": "o12-b141",
+   "type": "tuile",
+   "ordre": 12,
+   "fichier": "o12-b141-tuile.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 2,
+   "tableau": "Geometric Tiles 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b000-tuile.png",
+   "titre": "Geometric tile · order 12 · o12-b000 · bicolor",
+   "description": "Tuile géométrique bicolore, ordre 12, o12-b000 : une tuile Jacquard de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b000",
+   "texte_alternatif": "Black and cream geometric tile, order 12, o12-b000: a single 12 × 12 cell bicolor Jacquard tile on a cream background.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b000",
+   "motif_id": "o12-b000",
+   "type": "tuile",
+   "ordre": 12,
+   "fichier": "o12-b000-tuile.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 3,
+   "tableau": "Geometric Tiles 12",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12/o12-b045-tuile.png",
+   "titre": "Geometric tile · order 12 · o12-b045 · bicolor",
+   "description": "Tuile géométrique bicolore, ordre 12, o12-b045 : une tuile Jacquard de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir dans la galerie : https://anibal-amiot.com/galerie-bicolore.html#o12-b045",
+   "texte_alternatif": "Black and cream geometric tile, order 12, o12-b045: a single 12 × 12 cell bicolor Jacquard tile on a cream background.",
+   "lien": "https://anibal-amiot.com/galerie-bicolore.html#o12-b045",
+   "motif_id": "o12-b045",
+   "type": "tuile",
+   "ordre": 12,
+   "fichier": "o12-b045-tuile.png"
+  }
+ ]
+}

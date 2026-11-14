@@ -1,0 +1,118 @@
+{
+ "lot": "essai-12-gris",
+ "depot": "anibaledel/motifs-pins",
+ "ordre": 12,
+ "du": "2026-11-27",
+ "au": "2026-12-04",
+ "par_jour": 12,
+ "note": "Le tableau des pavages « Unified Patterns — Pavages Monochromes » est supposé (frère du tableau des cellules) : à confirmer.",
+ "motifs": [
+  {
+   "nom": "contraste",
+   "id": "n780",
+   "page": "motifs/par3-sans-yang-h12.html",
+   "famille": "X3",
+   "contraste_voisines": 61.5
+  },
+  {
+   "nom": "doux",
+   "id": "n0",
+   "page": "motifs/bases-yang-mut-h0.html",
+   "famille": "X1",
+   "contraste_voisines": 45.8
+  },
+  {
+   "nom": "intermediaire",
+   "id": "n770",
+   "page": "motifs/par3-sans-yang-h2.html",
+   "famille": "X3",
+   "contraste_voisines": 52.5
+  }
+ ],
+ "epingles": [
+  {
+   "date": "2026-11-27",
+   "rang": 1,
+   "tableau": "Unified Patterns — Pavages Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-780-par3-yang-yang-mut-n12-violet-magenta-pavage.png",
+   "titre": "Unified Patterns Tiling Pattern Monochrome Black X3 n780 Geometric Echoes",
+   "description": "Motif géométrique tricolore en niveaux de gris, sans couture, n780 : une cellule de 12 × 12 cases répétée par translation, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/par3-sans-yang-h12.html",
+   "texte_alternatif": "Grayscale geometric seamless pattern n780: a three-tone 12 × 12 cell repeated by translation on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/par3-sans-yang-h12.html",
+   "motif_id": "n780",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "motif-780-par3-yang-yang-mut-n12-violet-magenta-pavage.png"
+  },
+  {
+   "date": "2026-11-27",
+   "rang": 2,
+   "tableau": "Unified Patterns — Pavages Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-000-bases-yang-yang-mut-n0-violet-magenta-pavage.png",
+   "titre": "Unified Patterns Tiling Pattern Monochrome Black X1 n0 Geometric Echoes",
+   "description": "Motif géométrique tricolore en niveaux de gris, sans couture, n0 : une cellule de 12 × 12 cases répétée par translation, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/bases-yang-mut-h0.html",
+   "texte_alternatif": "Grayscale geometric seamless pattern n0: a three-tone 12 × 12 cell repeated by translation on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/bases-yang-mut-h0.html",
+   "motif_id": "n0",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "motif-000-bases-yang-yang-mut-n0-violet-magenta-pavage.png"
+  },
+  {
+   "date": "2026-11-27",
+   "rang": 3,
+   "tableau": "Unified Patterns — Pavages Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-770-par3-yang-yang-mut-n2-violet-magenta-pavage.png",
+   "titre": "Unified Patterns Tiling Pattern Monochrome Black X3 n770 Geometric Echoes",
+   "description": "Motif géométrique tricolore en niveaux de gris, sans couture, n770 : une cellule de 12 × 12 cases répétée par translation, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/par3-sans-yang-h2.html",
+   "texte_alternatif": "Grayscale geometric seamless pattern n770: a three-tone 12 × 12 cell repeated by translation on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/par3-sans-yang-h2.html",
+   "motif_id": "n770",
+   "type": "pavage",
+   "ordre": 12,
+   "fichier": "motif-770-par3-yang-yang-mut-n2-violet-magenta-pavage.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 1,
+   "tableau": "Unified Patterns — Cellules Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-780-par3-yang-yang-mut-n12-violet-magenta-cellule.png",
+   "titre": "Unified Patterns Cells Pattern Monochrome Black X3 n780 Geometric Echoes",
+   "description": "Cellule géométrique tricolore en niveaux de gris, n780 : une cellule tricolore de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/par3-sans-yang-h12.html",
+   "texte_alternatif": "Grayscale geometric tile n780: a single three-tone 12 × 12 cell on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/par3-sans-yang-h12.html",
+   "motif_id": "n780",
+   "type": "cellule",
+   "ordre": 12,
+   "fichier": "motif-780-par3-yang-yang-mut-n12-violet-magenta-cellule.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 2,
+   "tableau": "Unified Patterns — Cellules Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-000-bases-yang-yang-mut-n0-violet-magenta-cellule.png",
+   "titre": "Unified Patterns Cells Pattern Monochrome Black X1 n0 Geometric Echoes",
+   "description": "Cellule géométrique tricolore en niveaux de gris, n0 : une cellule tricolore de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/bases-yang-mut-h0.html",
+   "texte_alternatif": "Grayscale geometric tile n0: a single three-tone 12 × 12 cell on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/bases-yang-mut-h0.html",
+   "motif_id": "n0",
+   "type": "cellule",
+   "ordre": 12,
+   "fichier": "motif-000-bases-yang-yang-mut-n0-violet-magenta-cellule.png"
+  },
+  {
+   "date": "2026-12-04",
+   "rang": 3,
+   "tableau": "Unified Patterns — Cellules Monochromes",
+   "url_image": "https://raw.githubusercontent.com/anibaledel/motifs-pins/main/essai-12-gris/motif-770-par3-yang-yang-mut-n2-violet-magenta-cellule.png",
+   "titre": "Unified Patterns Cells Pattern Monochrome Black X3 n770 Geometric Echoes",
+   "description": "Cellule géométrique tricolore en niveaux de gris, n770 : une cellule tricolore de 12 × 12 cases, motif de base à répéter, tirée de La Livrée d'Hermès. CC BY-NC 4.0. À voir sur le site : https://anibal-amiot.com/motifs/par3-sans-yang-h2.html",
+   "texte_alternatif": "Grayscale geometric tile n770: a single three-tone 12 × 12 cell on a black background.",
+   "lien": "https://anibal-amiot.com/motifs/par3-sans-yang-h2.html",
+   "motif_id": "n770",
+   "type": "cellule",
+   "ordre": 12,
+   "fichier": "motif-770-par3-yang-yang-mut-n2-violet-magenta-cellule.png"
+  }
+ ]
+}
